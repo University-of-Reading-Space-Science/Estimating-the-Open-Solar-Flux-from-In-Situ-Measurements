@@ -1,5 +1,5 @@
 
-# Estimation Of Measurements [![Badge License]][License]
+# Estimation Of Measurements [![Badge License]][License] [![Badge University]][University]
 
 *Code for the analysis of the **Open Solar-flux** Measurements*
 
@@ -22,7 +22,10 @@ See󠀠 **[`Analysis Flowchart.pdf`][Flowchart]**.
 
 <!----------------------------------------------------------------------------->
 
-[Badge License]: https://img.shields.io/badge/License-Unkown-darkgray
+[Badge University]: https://img.shields.io/badge/University-Reading-9f3321?style=for-the-badge
+[Badge License]: https://img.shields.io/badge/License-Unkown-darkgray?style=for-the-badge
+
+[University]: https://www.reading.ac.uk/
 
 [Flowchart]: Documentation/Analysis%20Flowchart.pdf
 [License]: #
