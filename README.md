@@ -1,4 +1,26 @@
-# Estimating-the-Open-Solar-Flux-from-In-Situ-Measurements
-The code for the analysis outlined in the paper 'Estimating the Open Solar Flux from In-Situ Measurements'
 
-See pdf "Analysis Flowchart" for full details
+# Estimation Of Measurements
+
+*Code for the analysis of the **Open Solar-flux** Measurements*
+
+<br>
+
+## Relation
+
+*This is the code outlined in the paper:* <br>
+
+ `Estimating the Open Solar Flux from In-Situ Measurements`
+
+<br>
+
+## Details
+
+See **[`Analysis Flowchart.pdf`][Flowchart]**.
+
+
+<!----------------------------------------------------------------------------->
+
+[Flowchart]: Analysis%20Flowchart.pdf
+
+
+
