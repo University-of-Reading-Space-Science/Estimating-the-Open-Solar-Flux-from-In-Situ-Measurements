@@ -1,5 +1,5 @@
 
-# Estimation Of Measurements [![Badge License]][License] [![Badge University]][University]
+# Measurement Estimations [![Badge License]][License] [![Badge University]][University]
 
 *Code for the analysis of the **Open Solar-flux** Measurements*
 
